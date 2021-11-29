@@ -1,0 +1,25 @@
+h2 {
+    color: navy
+}
+
+h1 {
+    color: blue
+}
+
+body {
+    font-family: cursive;
+    color: black;
+    background-color: lemonchiffon;
+}
+
+h3 {
+    color: red;
+}
+
+#html-quick-heading {
+    color: indigo;
+}
+
+.underline {
+    text-decoration: underline;
+}
